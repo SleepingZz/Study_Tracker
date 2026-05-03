@@ -1,1 +1,1 @@
-{"name":"study-tracker","version":"1.0.0","description":"Study progress tracker desktop app","main":"main.js","scripts":{"start":"electron .","build":"electron-builder"},"devDependencies":{"electron":"latest","electron-builder":"latest"}}
+{\n  \"name\": \"study-tracker\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\",\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"author\": \"SleepingZz\",\n  \"license\": \"ISC\"\n}
