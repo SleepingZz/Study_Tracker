@@ -1,0 +1,1 @@
+{"name":"study-tracker","version":"1.0.0","description":"Study progress tracker desktop app","main":"main.js","scripts":{"start":"electron .","build":"electron-builder"},"devDependencies":{"electron":"latest","electron-builder":"latest"}}
